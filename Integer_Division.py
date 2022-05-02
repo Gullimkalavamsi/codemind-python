@@ -1,4 +1,2 @@
-n=int(input())
-b=10
-c=n//b
-print('%d'%c)
+x=int(input())
+print(x//10)
